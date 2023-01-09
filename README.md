@@ -9,3 +9,20 @@ Steps to run the simulation:
 2. Run PiezoMPC2_17.slx simulation
 
 Whenever you change the system parameters shown in the paper, please retune the control gains to get robustness against exogenous disturbances.
+
+To cite this work please use:
+
+<pre>
+  <code>
+@article{Bouc2022,
+  author={Gerardo Flores and Micky Rakotondrabe},
+  journal={IEEE Control Systems Letters},
+  title={Model Predictive Control Based on the Generalized Bouc-Wen Model for Piezoelectric Actuators in Robotic Hand With Only Position Measurements}, 
+  year={2022},
+  volume={6},
+  number={},
+  pages={2186--2191},
+  doi={10.1109/LCSYS.2021.3136456}
+  }
+  </code>
+</pre>
