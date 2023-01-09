@@ -7,3 +7,5 @@ Steps to run the simulation:
 
 1. Run the file: piezo_main.m
 2. Run PiezoMPC2_17.slx simulation
+
+Whenever you change the system parameters shown in the paper, please retune the control gains to get robustness against exogenous disturbances.
