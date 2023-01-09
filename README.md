@@ -14,7 +14,7 @@ To cite this work please use:
 
 <pre>
   <code>
-@article{Bouc2022,
+@article{MPC2022,
   author={Gerardo Flores and Micky Rakotondrabe},
   journal={IEEE Control Systems Letters},
   title={Model Predictive Control Based on the Generalized Bouc-Wen Model for Piezoelectric Actuators in Robotic Hand With Only Position Measurements}, 
